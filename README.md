@@ -1,1 +1,1 @@
-# Portfolio
+Create a folder called assets and then in that create four folders named "css", "js", "img", "scss" and then place the styles.css in css folder, all the images in img folder, main.js in js folder and styles.css in scss folder. Then just open you will see my  portfolio.
